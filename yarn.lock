@@ -2501,9 +2501,10 @@ boolbase@~1.0.0:
   resolved "https://registry.yarnpkg.com/boolbase/-/boolbase-1.0.0.tgz#68dff5fbe60c51eb37725ea9e3ed310dcc1e776e"
   integrity sha1-aN/1++YMUes3cl6p4+0xDcwed24=
 
-"bootstrap-star-rating@git://github.com/kartik-v/bootstrap-star-rating.git#v3.5.5":
+"bootstrap-star-rating@git://github.com/kartik-v/bootstrap-star-rating#v3.5.5":
   version "3.5.5"
-  resolved "git://github.com/kartik-v/bootstrap-star-rating.git#0f729ea50a69224b643e2d9c955b9183e387f03a"
+  uid "0f729ea50a69224b643e2d9c955b9183e387f03a"
+  resolved "git://github.com/kartik-v/bootstrap-star-rating#0f729ea50a69224b643e2d9c955b9183e387f03a"
   dependencies:
     bootstrap "~3"
     jquery ">= 1.9.0"
@@ -10257,9 +10258,9 @@ typescript-tuple@^2.1.0:
     typescript-compare "^0.0.2"
 
 ua-parser-js@^0.7.18, ua-parser-js@^0.7.9:
-  version "0.7.20"
-  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.20.tgz#7527178b82f6a62a0f243d1f94fd30e3e3c21098"
-  integrity sha512-8OaIKfzL5cpx8eCMAhhvTlft8GYF8b2eQr6JkCyVdrgjcytyOmPCXrqXFcUnhonRpLlh5yxEZVohm6mzaowUOw==
+  version "0.7.28"
+  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.28.tgz#8ba04e653f35ce210239c64661685bf9121dec31"
+  integrity sha512-6Gurc1n//gjp9eQNXjD9O3M/sMwVtN5S8Lv9bvOYBfKfDNiIIhqiyi01vMBO45u4zkDE420w/e0se7Vs+sIg+g==
 
 uglify-js@3.4.x:
   version "3.4.10"
